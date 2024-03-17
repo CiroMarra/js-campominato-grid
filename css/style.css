@@ -16,8 +16,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 
 .square.color {
     background-color: skyblue;
+}
+
+.grid-container {
+    background-color: aquamarine;
+}
+
+.ms-img {
+    width: 20%;
+    height: 20%;
 }
